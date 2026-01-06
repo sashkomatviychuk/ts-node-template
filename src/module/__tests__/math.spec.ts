@@ -1,4 +1,4 @@
-import { add } from '../math';
+import { add } from '@/module/math';
 
 describe('Math operations', () => {
   describe('add', () => {
